@@ -102,7 +102,7 @@
 百(hyaku) - 100 as a number.
 景(kei) - scenery, view.
 贈り物(okurimono) - present, gift.
-空中(kuuchuu) - sku, air, mid-air.
+空中(kuuchuu) - sky, air, mid-air.
 前(mae) - last (i.e. immediately preceding); previous;
 疑問(gimon) - doubt, question, suspicion.
 会話(kaiwa) - conversation, talk, chat.
@@ -113,4 +113,31 @@
 時々(tokidoki) - sometimes, occasionally, at times.
 誰(dare) - who.
 最近(saikin) - recently, lately, these days.
-雲(gumo) - cloud. 
+雲(gumo) - cloud.
+19.09.2025
+揺(yu.reru) - swing shake, sway , rock.
+揺らぎ(yuragi) - quiver, flutter.
+蟻(ari) - ant.
+油虫(aburamushi) - aphid, plant louse.
+新(shin) - new, neo-.
+新しい(atarashi) - new, novel, fresh.
+猫(neko) - cat.
+忘(wasu) - forget.
+忘れ物(wasuremono) - lost article, thing left behind.
+荷物(nimotsu) - luggage, baggage, package.
+荷(ni) - baggage. 
+詞(kotoba) - words, poetry.
+台詞(serifu) - comment, remark, phrase.
+駄目(dame) - no good, useless.
+目(me) - eye, class, insight.
+落(ochi) - slip, omission.
+落ちる(ochiru) - fall, drop, come down.
+落とす(otosu) - to drop, to lose, to let fall.
+花瓶(kabin) - flower(vase).
+曲(kyouku) - composition, piece of music.
+最後(saigo) - end, conclusion.
+少し(sukoshi) - a little bit, a small amount.
+兄弟(kyoudai) - siblings, brothers and sisters.
+泣く(naku) - to cry, to shed tears, to weep.
+7.10.2025
+誘惑(yuuwaku) - temptation, allurement, lure, encitement.
