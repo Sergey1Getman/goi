@@ -1,6 +1,6 @@
 語彙 (goi) - vocabulary.
 僕 (boku) - i, me.
-初 (haji.me) - first time
+初 (hatsu) - first time. Noun which may take the genitive case particle 'no', Noun, Noun, used as a prefix, Noun, used as a suffix
 映画(eiga) - movie.
 優(yasa.shii) - tenderness, gentleness, actor.
 女優(jyoyuu)- actress.
@@ -221,3 +221,70 @@
 十分(jyuubun) - enough,sufficient, plenty.
 涼しい(suzushii) - cool, refreshing.
 唐揚げ(karaage) -deep-frying food lightly coated in flour or potato starch; deep-fried food (esp. chicken). (i guess not for anki).
+稲妻(inazuma) - lightning; flash of lightning; lightning bolt.
+24.10.2003(happy birthday weird computer guy).
+申し訳ない(moshiwakenai) - I'm sorry; (it's) inexcusable; I feel regretful; I feel guilty.
+28.10.2025
+友人(yuujin) - another synonym of a word friend, this time in a friend from the office, work.
+彼(kare) - he, him.
+頼む(tanomu) - to request, to ask, to beg))).
+聞く(kiku) - to hear, to listen. 
+正直(shojiki) - honest, frank, candid.
+味(aji) - taste, flavour, flavor.
+終わり(owari) - end, ending, close, conclusion.
+紹介(shoukai) - introduction, presentation.
+機嫌(kigen) - humor, temper, mood.
+悪い(warui) - bad, poor, undesirable.
+帰る(kaeru) - to return, to come home, to go home.
+今日(kyou) - today, this day.
+閉店(heiten) - closing up shop.
+時代(jidai) - period, epoch, era.
+再会(saikai) - meeting again, reunion.
+会社(kaisha) - company, corporation, firm.
+激しい(hageshii) - violent; furious; tempestuous.
+痛み(itami) - pain, ache, soreness, grief, distress.
+知らず(shirazu) - not having; unaffected by.
+知識(chishiki) - knowledge, information.
+孤立(koritsu) - isolation, being alone, being friendless.
+人生(jinsei) - (one's) life.
+転機(tanki) - turning point(not for anki).
+気分(kibun) - feeling, mood.
+質問(shitsumon) - question; inquiry; enquire.
+現在(genzai) - the present, present time, now.
+3.11.2025
+子供(kodomo) - child, children.
+大事(daiji) - important, serious, crucial.
+風(second meaning)(fuu) - manner; behaviour; behavior.
+感覚(kankaku) - sense; sensation; feeling; intuition.
+服(fuku) - clothes (esp. Western clothes); clothing; dress; costume; suit; outfit.
+洋服(yofuku) - Western-style clothes (cf. traditional Japanese clothes).
+蝉(semi) - cicada, locust.
+鳴き声(nakigoe) - cry (of an animal), call, chirp, song, caw.
+都会(tokai) - city.
+天気(tenki) - weather.
+外(soto) - outside.
+悲しい(kanashii) - sad, miserable, unhappy, sorrowful.
+落書き(rakugaki) - scrawl; scribble; graffiti; doodle.
+結構(kekkou) - splendid; nice; wonderful; delightful; lovely; excellent; fine.
+多分(tabun) - probably; likely; perhaps; maybe.
+連れる(tsureru) - to take (someone) with one; to bring along; to go with; to be accompanied by.
+難しい(mizukashii)  - difficult; hard; troublesome; complicated; serious (disease, problem, etc.).
+有難う(arigatou) - thank you, thanks.
+辛い(tsurai) - painful; bitter; heart-breaking; difficult (emotionally).
+遠い(tooi) - far; distant; far away; a long way off; in the distance.
+雷(kaminari) -  lightning; thunder; thunderbolt.
+魂(tamashii) - soul, spirit, mind.
+細い(hosoi) - thin, slender, fine.
+腕(ude) - arm.
+眩しい(mabushii) - dazzling; radiant.
+悔しい(kuyashii) - frustrated (over a failure, humiliation or injustice); annoyed; chagrined; (bitterly) disappointed; bitter; vexed; frustrating; annoying; regrettable​
+存在(sonzai) - existence; being; presence.
+機織り虫(wataorimushi) - grasshopper.
+飛蝗(batta) - grasshopper.
+辛さ(tsurasa) - pain; bitterness.
+蜂(hachi) - bee; wasp; hornet.
+蝶(chou) - butterfly.
+望み(nozomi) - wish; desire; hope.
+幸せ(shiawase) - happiness good fortune; luck; blessing.
+葬式(soushiki) - funeral. 
+組織(soshiki) - organization; organisation; formation.
