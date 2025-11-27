@@ -272,6 +272,7 @@
 有難う(arigatou) - thank you, thanks.
 辛い(tsurai) - painful; bitter; heart-breaking; difficult (emotionally).
 遠い(tooi) - far; distant; far away; a long way off; in the distance.
+
 雷(kaminari) -  lightning; thunder; thunderbolt.
 魂(tamashii) - soul, spirit, mind.
 細い(hosoi) - thin, slender, fine.
@@ -288,3 +289,32 @@
 幸せ(shiawase) - happiness good fortune; luck; blessing.
 葬式(soushiki) - funeral. 
 組織(soshiki) - organization; organisation; formation.
+16.11.2025
+死(shi) - death.
+書(kaku) - write.
+書斎(shasai) - study; library; den; home office; reading room.
+供給(kyoukyuu) - supply, provision. 
+動物(doubutsu) - animal.
+嵐(arashi) - storm; tempest.
+書庫(shoko) - library; book storage; stack room.
+泥棒(dorobo) - thief; burglar; robber.
+戦い(tatakai) - battle; war; fight; conflict.
+風花(kazabana) - flurry of snow in a clear sky.
+暗殺者(asashin) - asassin.
+力(chikara) - force; strength; might; vigour; vigor; energy.
+事実(jijitsu) - fact; truth; reality.
+見殺し(migoroshi) - letting (someone) die without helping.
+急ぐ(isogu) - to hurry; to rush; to hasten; to make something happen sooner.
+冷たい(tsumetai) - cold (to the touch); chilly; icy; freezing. (emotionally) cold; coldhearted; unfeeling; indifferent; unfriendly; distant.
+人間(ningen) - human being; human; person; man; mankind; humankind.
+人類(jinrui) - mankind; humanity.
+見捨てる(misuteru) - to abandon; to fail; to desert; to forsake.
+理由(riyuu) - reason; grounds; pretext; excuse; motive.
+燃える(moeru) - to burn; to get fired up.
+交換(koukan) - exchange; interchange; switching; reciprocity; barter; substitution; replacement; clearing (of checks, cheques).
+火事(kaji) - fire; conflagration.
+頼る(tayoru) - to rely on; to depend on; to count on; to turn to (for help).
+誘拐(yuukai) - abduction; kidnapping; kidnaping.
+弱い(yowai) -weak; frail; delicate; tender; unskilled; weak (wine).
+出口(deguchi) - exit; way out.
+瞬間(shunkan) - moment; instant; second.
