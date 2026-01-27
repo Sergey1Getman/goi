@@ -323,7 +323,7 @@
 予想 (yosou) - expectation; anticipation; prediction; forecast; conjecture.
 状況 (jyoukyou) - state of affairs; situation; conditions; circumstances.
 意外(igai) - unexpected; surprising.
-業界(gyoukai) - buisness world(not work anki) .
+業界(gyoukai) - buisness world(not work anki) 
 似る(niru) - to resemble; to look like; to be like; to be alike; to be similar; to take after.
 詰らない(tsumaranai) - dull, uninteresting, boring.
 吹く(fuku) - to blow (of the wind),to blow (one's breath); to breathe out.
@@ -358,3 +358,92 @@
 作り(tsukuri) - making; producing; manufacturing; building; construction; make; structure.
 老人(roujin) - old person; senior citizen; the aged; the elderly.
 お菜(okazu) - small dish (usu. one of several accompanying rice); side dish.
+最果て(saihate) - the farthest ends; the furthest ends(like 最後 in poesy).
+位置付け(ichidzuke) - placement; fixed position; mapping out; location.
+抜ける(nukeru) - to come out; to fall out; to be omitted; to be missing; to escape; to come loose.
+為(tame) - good; advantage; benefit; welfare.
+意識(ishiki) - consciousness.
+海辺(umibe) - beach; seashore; seaside; coast.
+謳う(utau) - to extol; to sing the praises of; to celebrate.
+自意識(jishiki) - self-consciousness.
+暗い(kurai) - dark; gloomy; murky.
+晴れる(hareru) - to clear up; to clear away; to be sunny; to stop raining.
+祈る(inoru) - to pray; to say a prayer; to say grace.
+響く(hibiku) - to resound; to be heard far away.
+住む(sumu) - to live (of humans); to reside; to inhabit; to dwell; to abide.
+散歩(sanpo) - walk; stroll.
+若い(wakai) - young; youthful.
+自分(jibun) - myself; yourself; oneself; himself; herself.
+不便(fuben) - inconvenience; inexpediency; unhandiness.
+便利(benri) - convenient; handy; useful.
+全く(mattaku) - really; truly; entirely; completely; wholly; perfectly.
+問題(mondai) - question (e.g. on a test); problem.
+例えば(tatoeba) - for example; for instance; e.g.
+次(tsugi) - next; following; subsequent.
+必ず(kanarazu) - always; without exception; necessarily; certainly; without fail; positively; invariably.
+家賃(yachin) - rent.
+
+
+全然(zenzen) - (not) at all; (not) in the slightest.
+安い(yasui) - cheap; inexpensive.
+自然(shizen) - nature.
+全体的(zentaiteki) - overall; general; as a whole.
+穏やか(odayaka) - calm; quiet; gentle; peaceful; mild.
+個人的(gojinteki) - personal; individual; private.
+居酒屋(izakaya) - izakaya; tavern, bar, etc. that also serves various dishes and snacks.
+遊び(asobi) - play; playing; game.
+お隣さん (otonari-san) - (next-door) neighbour; neighbor.
+近所(kinjo) -neighbourhood; neighborhood; vicinity.
+世間話(sekenbanashi) - small talk, chat, gossip.
+苦手(nigate) - poor (at something); weak (in something); not very good (at)
+絶対(zettai) - absolutely; definitely; unconditionally.
+入る(hairu) - to enter; to come in; to go in; to get in; to arrive.
+仲良く(nakayoku) - on good terms (with); on friendly terms (with); (getting along) well; in harmony; happily; peacefully.
+世界(sekai) - the world; society; the universe.
+生活(seikatsu) - life; living.
+休み(yasumi) - rest; recess; respite.
+翼(tsubasa) - wing.
+動画(douga) - video (esp. digital); video clip; clip.
+楽しい(tanoshi) - enjoyable; fun; pleasant; happy; delightful.
+送る(okuru) - to send; to dispatch; to forward; to transmit; to ship; to remit.
+海外(kaigai) - foreign; abroad; overseas.
+人気(ninki) -popularity; public favor, popular.
+一般(ippan) - general; universal.
+性格(seikaku) - character (of a person); personality; disposition; nature.
+違う(chigau) - to differ (from); to be different; to be distinct; to be unlike; to vary; to disagree (with).
+個人(koujin) - individual; private person; personal; private.
+本当(hontou) - truth; reality; actuality; fact.
+観光客(kankoukyaku) - tourist.
+観光(kankou) - sightseeing; tourism.
+移住(ijyuu) - migration; move; emigration; immigration.
+増える(fueru) - to increase; to multiply.
+寂しい(sabishii) - lonely; lonesome; solitary; desolate.
+青い(aoi) - blue, azure;
+知る(shiru) - to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover
+避難(binan) - taking refuge; finding shelter; evacuation; escape; seeking safe haven.
+今月(kongetsu) - this month.
+起こる(okoru) - to occur; to happen.
+地震(jishin) - earthquake.
+注意(chyui) - attention; notice; heed.
+情報(jouhou) - information; news; report; intelligence.
+悪(aku) - evil; wickedness.
+今夜(konya) - this evening; tonight.
+会議(kaigi) - meeting; conference; session; assembly; council; convention; congress.
+知り合い(shiriai) - acquaintance.
+次(tsugi) - next; following; subsequent.
+成る程(naruhodo) - I see; that's right; indeed.
+団地(danchi) - multi-unit apartments; apartment complex.
+教育(kyoiku) - education; schooling; training; instruction; teaching; upbringing.
+人々(hitobito) - people; men and women.
+要塞(yosai) - fort; stronghold; fortification.
+巨大(kyodai) - huge; gigantic; enormous.	
+強大(kyoudai) - mighty; powerful.
+神獣(shinjyuu) - divine beast(probably not for anki right now)
+地上(chijyou) - above ground; on the ground; earth's surface.
+炎(honou) - flame; blaze.
+失う(ushinau) - to lose.
+聖剣(seiken) - holy sword.
+勇者(yuusha) - hero; the brave; man of valour (valor).
+平和(heiwa) - peace; harmony.
+流れ(nagare) - flow (of a fluid or gas), stream, current
+歴史(rekishi) -
