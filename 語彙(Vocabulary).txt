@@ -358,7 +358,6 @@
 作り(tsukuri) - making; producing; manufacturing; building; construction; make; structure.
 老人(roujin) - old person; senior citizen; the aged; the elderly.
 お菜(okazu) - small dish (usu. one of several accompanying rice); side dish.
-<<<<<<< HEAD
 最果て(saihate) - the farthest ends; the furthest ends(like 最後 in poesy).
 位置付け(ichidzuke) - placement; fixed position; mapping out; location.
 抜ける(nukeru) - to come out; to fall out; to be omitted; to be missing; to escape; to come loose.
@@ -383,7 +382,7 @@
 次(tsugi) - next; following; subsequent.
 必ず(kanarazu) - always; without exception; necessarily; certainly; without fail; positively; invariably.
 家賃(yachin) - rent.
-
+27.01.2026
 
 全然(zenzen) - (not) at all; (not) in the slightest.
 安い(yasui) - cheap; inexpensive.
@@ -448,5 +447,3 @@
 平和(heiwa) - peace; harmony.
 流れ(nagare) - flow (of a fluid or gas), stream, current
 歴史(rekishi) -
-=======
->>>>>>> origin/main
