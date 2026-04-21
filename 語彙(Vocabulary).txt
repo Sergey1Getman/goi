@@ -406,7 +406,6 @@
 動画(douga) - video (esp. digital); video clip; clip.
 楽しい(tanoshi) - enjoyable; fun; pleasant; happy; delightful.
 08.02.2026
-
 送る(okuru) - to send; to dispatch; to forward; to transmit; to ship; to remit.
 海外(kaigai) - foreign; abroad; overseas.
 人気(ninki) -popularity; public favor, popular.
@@ -428,6 +427,8 @@
 地震(jishin) - earthquake.
 注意(chyui) - attention; notice; heed.
 情報(jouhou) - information; news; report; intelligence.
+25.02.2026
+
 悪(aku) - evil; wickedness.
 今夜(konya) - this evening; tonight.
 会議(kaigi) - meeting; conference; session; assembly; council; convention; congress.
@@ -449,3 +450,6 @@
 平和(heiwa) - peace; harmony.
 流れ(nagare) - flow (of a fluid or gas), stream, current
 歴史(rekishi) -
+塔(tou) - tower; steeple; spire.
+挨拶(aisatsu) - greeting; greetings; salutation; salute; polite set phrase used when meeting or parting from someone.
+案内(annai) - guidance; leading (the way); showing around.
