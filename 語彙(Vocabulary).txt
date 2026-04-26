@@ -451,5 +451,49 @@
 流れ(nagare) - flow (of a fluid or gas), stream, current
 歴史(rekishi) -
 塔(tou) - tower; steeple; spire.
-挨拶(aisatsu) - greeting; greetings; salutation; salute; polite set phrase used when meeting or parting from someone.
+案内(aisatsu) - greeting; greetings; salutation; salute; polite set phrase used when meeting or parting from someone.
 案内(annai) - guidance; leading (the way); showing around.
+頭痛(zutsu) - headache.
+仏像(butsuzou) - statue of Buddha; image of Buddha; Buddhist statue; Buddhist image.
+傘(kasa) - umbrella; parasol.
+冷蔵庫 (waizouko) - refrigerator; fridge.
+断る(kotowaru) - to refuse; to reject; to dismiss; to turn down; to decline.
+帽子 (boushi) - hat, cap.
+空気　(kuuki) - air, atmosphere.
+角度 (kakudo) - angle 
+地図 (chizu) - map; atlas; chart; plan.
+橋(washi) -  bridge.
+見出し(midashi) - headline.
+下手(heta) - unskillful; poor; awkward.
+修論(jsyuuron) - masters thesis.
+舌 (shita) - tongue.
+外国人(gaikokujin) - foreigner; foreign citizen; foreign national; alien; non-Japanese
+仏像(butsuzou) - statue of Buddha; image of Buddha; Buddhist statue; Buddhist image.
+銅像 (douzou) - bronze statue.
+大理石像(dairisekizou) - marble statue.
+傘(kasa) - umbrella, parasol.
+作家 (sakka) - author; writer; novelist; artist.
+冷蔵庫(reizouko) - refrigerator; fridge.
+空っぽ (karappo) - empty; vacant; hollow.
+鍵(kagi) - key.
+心地よい(kokochiyoi) - comfortable.
+焼き窯(yakigama) - oven.
+鏡(kagami) - mirror, looking-glass.
+多彩(tasai) - colourful; colorful; multicoloured; multicolored; varicoloured; varicolored.
+主語 (shugo) - subject (grammar).
+夢(yume) - dream
+皿(sara) -plate; dish; platter; disc.
+鋏(hasami) - scissors; shears; clippers.
+友情(yuujou) - friendship; fellowship; camaraderie.
+遅れる(okuru) - to be late; to be delayed; to fall behind schedule; to be overdue
+日程(nittei) - schedule; program; programme; agenda.
+別々(betsubestu) - separate; respective; different.
+取り消す(torikesu) - to cancel; to withdraw; to retract; to take back (words, etc.); to revoke.
+遅らせる(okuraseru) - to delay; to postpone; to put off; to slow down; to hold up; to retard; to put back (a clock).
+万一(manichi) - (unlikely event of) emergency; the worst(-case scenario); 10000 to 1.
+生憎(ainiku) - unfortunately; sorry, but ....
+申し入れる(moushireru) -to propose; to suggest.
+尋ねる(tazuneru) - to ask; to enquire; to inquire.
+断る(kotowaru) - to refuse; to reject; to dismiss; to turn down; to decline.
+取り決める(torikimeru) - to agree; to decide upon; to enter into (a contract).
+昼前(hirumae) -morning; forenoon.
