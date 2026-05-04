@@ -22,7 +22,8 @@
 思(omo.u)- think.
 不(fu)- negative
 文字(moji)- letter(of an alphabet), character.
-文(fumi)-sentence, literature, style.
+文(bun)- sentence, literature, style.
+文(fumi) - letter; note; mail.
 夜(yoru)- night, evening
 選(erabu)- elect, choose, prefer.
 魚(sakana)- fish.і
@@ -433,7 +434,6 @@
 今夜(konya) - this evening; tonight.
 会議(kaigi) - meeting; conference; session; assembly; council; convention; congress.
 知り合い(shiriai) - acquaintance.
-次(tsugi) - next; following; subsequent.
 成る程(naruhodo) - I see; that's right; indeed.
 団地(danchi) - multi-unit apartments; apartment complex.
 教育(kyoiku) - education; schooling; training; instruction; teaching; upbringing.
@@ -449,9 +449,10 @@
 勇者(yuusha) - hero; the brave; man of valour (valor).
 平和(heiwa) - peace; harmony.
 流れ(nagare) - flow (of a fluid or gas), stream, current
-歴史(rekishi) -
+歴史(rekishi) - history.
 塔(tou) - tower; steeple; spire.
-案内(aisatsu) - greeting; greetings; salutation; salute; polite set phrase used when meeting or parting from someone.
+28.04.2026
+挨拶(aisatsu) - greeting; greetings; salutation; salute; polite set phrase used when meeting or parting from someone.
 案内(annai) - guidance; leading (the way); showing around.
 頭痛(zutsu) - headache.
 仏像(butsuzou) - statue of Buddha; image of Buddha; Buddhist statue; Buddhist image.
@@ -462,6 +463,7 @@
 空気　(kuuki) - air, atmosphere.
 角度 (kakudo) - angle 
 地図 (chizu) - map; atlas; chart; plan.
+04.05.2026
 橋(washi) -  bridge.
 見出し(midashi) - headline.
 下手(heta) - unskillful; poor; awkward.
@@ -497,3 +499,30 @@
 断る(kotowaru) - to refuse; to reject; to dismiss; to turn down; to decline.
 取り決める(torikimeru) - to agree; to decide upon; to enter into (a contract).
 昼前(hirumae) -morning; forenoon.
+会う(au) - to meet; to encounter; to see.
+星々 (hoshishoshi) - stars; the stars and planets; celestial bodies.
+星空 (hoshizora) - starry sky.
+樹木園(Jumokuen) - arboretum.
+渋滞(jyuutai) - (traffic) congestion; traffic jam; gridlock.
+万年筆（）-fountain pen
+病院(byouin) - hospital; clinic; doctor's office; doctor's surgery; infirmary.
+市役所(shiyaukusho) - municipal office; council; city hall　
+政府 (seifu) - government; administration; ministry.
+新聞	(shinbun) - newspaper.
+戸棚　(todana) - cupboard,locker; closet; wardrobe; cabinet.
+付く(tsuku) - to be attached; to be connected with; to adhere; to stick; to cling
+半ば（nakaba) - middle; halfway; midway.
+真ん中(mannaka) - middle; centre; center; midpoint; heart.
+祭り(matsuri) - festival; feast; 
+展覧会（tenrankai) - exhibition.
+演技(engi) - acting; performance.
+発揮（）ーshow (of power, ability, etc.); exhibition; demonstration; display; manifestation.
+床 (yuka) - floor.
+尽くす(tsukusu) - to use up; to exhaust; to run out of.
+停止(teishi) - stoppage; coming to a stop; halt; standstill.
+清掃車 (seizoshya) - garbage truck.
+休暇 (kyuuka) - holiday; vacation; day off; time off; leave; furlough. 
+お休み(oyasumi) - holiday; day off; absence.
+森(mori) - forest,shrine grove.
+建物(tatemono) - building.
+生憎(ainiku) - unfortunately; sorry, but ...
