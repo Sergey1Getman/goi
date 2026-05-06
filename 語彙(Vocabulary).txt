@@ -300,7 +300,7 @@
 書庫(shoko) - library; book storage; stack room.
 泥棒(dorobo) - thief; burglar; robber.
 戦い(tatakai) - battle; war; fight; conflict.
-風花(kazabana) - flurry of snow in a clear sky.
+風花(kazahana) - flurry of snow in a clear sky.
 暗殺者(asashin) - asassin.
 力(chikara) - force; strength; might; vigour; vigor; energy.
 事実(jijitsu) - fact; truth; reality.
@@ -384,7 +384,6 @@
 必ず(kanarazu) - always; without exception; necessarily; certainly; without fail; positively; invariably.
 家賃(yachin) - rent.
 27.01.2026
-
 全然(zenzen) - (not) at all; (not) in the slightest.
 安い(yasui) - cheap; inexpensive.
 自然(shizen) - nature.
@@ -429,7 +428,6 @@
 注意(chyui) - attention; notice; heed.
 情報(jouhou) - information; news; report; intelligence.
 25.02.2026
-
 悪(aku) - evil; wickedness.
 今夜(konya) - this evening; tonight.
 会議(kaigi) - meeting; conference; session; assembly; council; convention; congress.
@@ -470,12 +468,9 @@
 修論(jsyuuron) - masters thesis.
 舌 (shita) - tongue.
 外国人(gaikokujin) - foreigner; foreign citizen; foreign national; alien; non-Japanese
-仏像(butsuzou) - statue of Buddha; image of Buddha; Buddhist statue; Buddhist image.
 銅像 (douzou) - bronze statue.
 大理石像(dairisekizou) - marble statue.
-傘(kasa) - umbrella, parasol.
 作家 (sakka) - author; writer; novelist; artist.
-冷蔵庫(reizouko) - refrigerator; fridge.
 空っぽ (karappo) - empty; vacant; hollow.
 鍵(kagi) - key.
 心地よい(kokochiyoi) - comfortable.
@@ -500,8 +495,9 @@
 取り決める(torikimeru) - to agree; to decide upon; to enter into (a contract).
 昼前(hirumae) -morning; forenoon.
 会う(au) - to meet; to encounter; to see.
-星々 (hoshishoshi) - stars; the stars and planets; celestial bodies.
+星々 (hoshihoshi) - stars; the stars and planets; celestial bodies.
 星空 (hoshizora) - starry sky.
+星（hoshi) - star (usu. excluding the Sun); planet (usu. excluding Earth); heavenly body
 樹木園(Jumokuen) - arboretum.
 渋滞(jyuutai) - (traffic) congestion; traffic jam; gridlock.
 万年筆（）-fountain pen
@@ -526,3 +522,18 @@
 森(mori) - forest,shrine grove.
 建物(tatemono) - building.
 生憎(ainiku) - unfortunately; sorry, but ...
+静か(shizuka) - quiet; silent.
+魅了(miryouku) - charm; fascination.
+植物 (shokubutsu) - plant; vegetation.
+針(hari) - needle, pin.
+汚い（kitanai）- dirty; filthy; foul; unclean.
+人口（jinkou) - population.
+飛行機(hikouki) - airplane; aeroplane; plane; aircraft.
+朧気（oboroke）ー vague; faint; dim; indistinct; hazy; blurry.
+霞む(kasumu) - to become misty; to become hazy.
+降りる(oriru)(first reading) - to descend (e.g. a mountain);
+降りる(oriru)(second reading) - to alight (e.g. from bus); to get off; to disembark; to dismount
+大概 (taigai) - generally; mainly; usually; normally; mostly; for the most part.
+意味 (imi) - meaning; significance; sense.
+鉢(hachi) - bowl; pot; basin.
+工場(koujyou) - factory; plant; mill; workshop.
