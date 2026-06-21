@@ -573,3 +573,54 @@
 刑務所 (keimusho) - jail.
 信号機 (shingouki) - traffic light; traffic signal.
 訪ねる（tazuneru) - to visit; to call on; to pay a visit to.
+作品 (sakuhin) - work (e.g. book, film, painting, composition); piece; production; opus.
+元気 (genki) -lively; full of spirit; energetic; vigorous; vital; spirited.
+お母さん(okaasan) - mother.
+花束 (hanataba) - bunch of flowers; bouquet.
+お別れ (owakare) - parting; farewell.
+誕生日 (tanjoubi) - birthday.
+窓(mada) - window.
+忙しい (isogashii) - busy; occupied; hectic.
+石(ishi) - stone.
+迷う (mayou) - to lose one's way; to get lost; to go astray.
+門(mon) - gate.
+戻る(modoru) - to turn back.
+吸い込む(suikomu) - to inhale; to breathe in; to suck up; to soak up; to absorb.
+音(oto) - sound; noise.
+残骸 (zangai) - ruins; wreckage; wreck; broken remains; debris.
+計画 (keikaku) - plan; project; schedule; scheme; program; programme.
+持ってくる(mottekuru) - to bring (something); to take along; to fetch; to get.
+財布(saifu) - wallet; purse; coin purse; billfold; pocketbook.
+骨 (hone) - bone.
+軟らかい(yawarakai) - soft; tender; supple; flexible; limber; limp.
+油(abura) - oil.
+稼ぐ(kasegu) - to earn (income); to make (money).
+走る(hashire) - to run.
+透ける(sukeru) -to be transparent; to show through.
+味方(mikata) -  friend; ally; supporter.
+触る(sawaru) - to touch, to feel.
+無理(muri) - unreasonable; unnatural, impossible.
+両親(ryoushin) - parents.
+助ける(tasukeru) - to save; to rescue; to spare.
+階段(kaidan) - stairs; stairway; staircase.
+所(tokoro) - place; spot; scene; site.
+粘る(nebaru) - to be sticky, to be persuasive.
+支配(shihai) - rule; domination; control(can also be used as adjective).
+機会(kikai) - chance; opportunity; occasion.
+小さい(chiisai) - small; little; tiny.
+文句 (monku) - complaint; grumbling; objection.
+大騒ぎ(oosawagi) - clamour; clamor; uproar; tumult; furore; furor.
+孫(mago) - grandchild.
+契約(keiyaku) -contract; compact; agreement.
+世話(seiwa) - care; looking after; help; assistance; aid. 	
+お座敷(oshiki) - tatami room.
+みっともない(mittomonai) - shameful; disgraceful; unsightly; indecent; unseemly; unbecoming; improper.
+八百万(yaoyorozu) - miryad (questionable anki).
+湯屋(yuya) - public bathhouse.
+当然(tozen) - 	natural; right; proper; just; reasonable; appropriate; deserved.
+代わり(kawari) - substitute; replacement; substituting; replacing.
+心配(shinpai) - worry; concern; anxiety; uneasiness; fear.
+油断(yuudan) - negligence; carelessness; inattention; unpreparedness.
+新入り(shiniri) - newcomer; initiate; rookie.
+隠す(kakusu) - to hide; to conceal.
+奪う(ubau) -to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of; to deprive of; to usurp.
