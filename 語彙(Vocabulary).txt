@@ -530,6 +530,7 @@
 植物 (shokubutsu) - plant; vegetation.
 針(hari) - needle, pin.
 汚い（kitanai）- dirty; filthy; foul; unclean.
+10.07.2026
 人口（jinkou) - population.
 飛行機(hikouki) - airplane; aeroplane; plane; aircraft.
 朧気（oboroke）ー vague; faint; dim; indistinct; hazy; blurry.
@@ -652,3 +653,5 @@
 生意気(namaiki) -impertinent; saucy; cheeky; impudent; audacious; cocky; pert; brash.
 埃(hokori) - dust.
 平気
+晩
+迷惑 (meiwaku) - trouble; bother; annoyance; nuisance; inconvenienc
