@@ -540,19 +540,17 @@
 大概 (taigai) - generally; mainly; usually; normally; mostly; for the most part.
 意味 (imi) - meaning; significance; sense.
 鉢(hachi) - bowl; pot; basin.
+13.07.2026
 工場(koujyou) - factory; plant; mill; workshop.
-乗る () - 
-乗り換え() - 
-比べく () - 
+乗る (noru) - to get on (train, plane, bus, ship, etc.); to get in; to board; to take; to embark
+乗り換え(norikae) - transfer (trains, buses, etc.); change; connection
+比べく () - ????
 秋 (aki) - autumn, fall.
 夏(natsu) - summer.
 式(shiki) - way.
 島(shima) - island.
-針(hari) - needle, pin.
-植物（shokubutsu) - plant.
-日々（hibi) - daily, everyday.
-手袋（tebukuro) - glove, mitten.
-持続 () - continuation; persisting; lasting; sustaining; enduring.
+持続 (jizoku) - continuation; persisting; lasting; sustaining; enduring.
+21.07.2026
 醜い (minikui) - ugly; unattractive; bad-looking
 早番 (hayaban) - early shift; morning shift; early arrival
 遅番 (osoban) - late shift; second shift; afternoon shift
